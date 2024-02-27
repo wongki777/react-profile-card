@@ -7,7 +7,6 @@ export default function App() {
         location: "Los Angeles",
         occupation: "Front-end developer",
         email: "angel.smith@gmail.com",
-        isFavorite: false
     })
     return (
         <main>
